@@ -1,0 +1,25 @@
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe.config
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.pdb
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\EstructurasDeDatos.dll
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csprojAssemblyReference.cache
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form1.resources
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form2.resources
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Properties.Resources.resources
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.GenerateResource.cache
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.CoreCompileInputs.cache
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.CopyComplete
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.exe
+C:\Users\HRZCz\Desktop\Lab_Estructuras\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.pdb
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe.config
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.exe
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\Proyecto_microSQL.pdb
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\bin\Debug\EstructurasDeDatos.dll
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csprojResolveAssemblyReference.cache
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form1.resources
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Form2.resources
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.Properties.Resources.resources
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.GenerateResource.Cache
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.csproj.CoreCompileInputs.cache
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.exe
+C:\Users\Genesis Cortez\Desktop\P-EDI\Proyecto_microSQL\Proyecto_microSQL\obj\Debug\Proyecto_microSQL.pdb
